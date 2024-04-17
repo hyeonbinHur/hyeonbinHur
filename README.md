@@ -11,6 +11,7 @@ Feel free to contact me if you want to learn more about my work and experiences!
 <br />
 
 ## ⚙️Tool and Sklls 🔨
+<p>
  <img align="left" alt="Java" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />       
 <img align="left" alt="Java" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
@@ -27,9 +28,13 @@ Feel free to contact me if you want to learn more about my work and experiences!
 <img align="left" alt="Java" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-
+<br />
+</p>
 
 <br />
+<br />
+<br />
+
 
 ## :page_with_curl: Projects :file_folder:
 **`Spring Boot & PostgreSQL & AWS`**
@@ -47,7 +52,6 @@ This is a social networking service currently being implemented using React and 
 **`Java`**
 
 This is an online video rental shop, fully implemented in Java and JavaFX. The main feature of this app is that it supports several different user types, each with unique features.
-
 
 
           
