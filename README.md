@@ -7,6 +7,7 @@ I am currently studying Software Engineering course at RMIT, where I have develo
 My ability to immerse myself in user-centric thinking has helped improve our projects from a user's perspective. Effective communication and thorough planning are vital to me. Before starting any development, I meticulously plan by conceptualizing, identifying key features, and researching similar services to integrate their best practices and learn from their drawbacks. After solidifying the technical plan, I proceed with coding and design simultaneously, ensuring the design is completed before all features are finalized, and then I execute the frontend development in one go.
 
 Feel free to contact me if you want to learn more about my work and experiences!
+
 <br />
 
 ## ⚙️Tool and Sklls 🔨
@@ -26,6 +27,8 @@ Feel free to contact me if you want to learn more about my work and experiences!
 <img align="left" alt="Java" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+
+
 <br />
 
 ## :page_with_curl: Projects :file_folder:
