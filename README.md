@@ -9,5 +9,5 @@ My ability to immerse myself in user-centric thinking has helped improve our pro
 Feel free to contact me if you want to learn more about my work and experiences!
 
 ## ⚙️Tool and Sklls 🔨
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+ <img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
           
