@@ -28,12 +28,13 @@ Feel free to contact me if you want to learn more about my work and experiences!
 <img align="left" alt="Java" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-<br />
 </p>
 
 <br />
 <br />
 <br />
+<br />
+
 
 
 # :page_with_curl: Flagship Projects :file_folder:
@@ -53,17 +54,24 @@ This is a social networking service currently being implemented using React and 
 
 This is an online video rental shop, fully implemented in Java and JavaFX. The main feature of this app is that it supports several different user types, each with unique features.
 
+<br />
+<br />
 
-# Currently Sudying
+
+
+# :seedling: Currently Sudying
 
 **`React`**
+
 Currently I am studying React in depth. focusing hooks, Redux, ContextAPI etc
 
 
 **`Machine Learninig`**
+
 As AI technology becomes more popular and widely used, I am eager to learn about AI. My chosen area of focus is now machine laerning.
 
 **`Embedded Systems: Operating Systems and Interfacing`**
+
 Utilzing the Rasberry Pi, I am studying embedded system.
 
 
