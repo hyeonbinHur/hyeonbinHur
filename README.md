@@ -36,7 +36,7 @@ Feel free to contact me if you want to learn more about my work and experiences!
 <br />
 
 
-# :page_with_curl: Projects :file_folder:
+# :page_with_curl: Flagship Projects :file_folder:
 **`Spring Boot & PostgreSQL & AWS`**
 
 This project is a capstone project management system, implemented using Spring Boot, PostgreSQL, and AWS. It facilitates interaction among students, companies, and supervisors, which is a main feature of the system.
