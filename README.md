@@ -1,6 +1,6 @@
-# 🧑 HyeonBin Hur (Max) 💻
+# :koala: HyeonBin Hur (Max) 💻
 
-**`RMIT software engineering course (Backend/Frontend/DataScience/Cloud Service )`**
+**:school:`RMIT software engineering course (Backend/Frontend/DataScience/Cloud Service )`**
 
 I am currently studying Software Engineering course at RMIT, where I have developed various skills across backend and frontend development, data science, and cloud services. My academic projects have provided me with hands-on experience in implementing web and application services, and I have found a particular interest in both backend and frontend development. Though I have basic knowledge of data science and cloud services, I am most passionate and find joy in the actual development of applications and web services.
 
@@ -25,6 +25,19 @@ Feel free to contact me if you want to learn more about my work and experiences!
 <img align="left" alt="Java" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+
+## :page_with_curl: Projects :file_folder:
+
+**`Spring Boot & Postgre & AWS`**
+
+**`React & AWS`**
+
+**`React & Firebase`**
+
+**`Java`**
+
+
+
           
           
                    
