@@ -54,6 +54,19 @@ This is a social networking service currently being implemented using React and 
 This is an online video rental shop, fully implemented in Java and JavaFX. The main feature of this app is that it supports several different user types, each with unique features.
 
 
+# Currently Sudying
+
+**`React`**
+Currently I am studying React in depth. focusing hooks, Redux, ContextAPI etc
+
+
+**`Machine Learninig`**
+As AI technology becomes more popular and widely used, I am eager to learn about AI. My chosen area of focus is now machine laerning.
+
+**`Embedded Systems: Operating Systems and Interfacing`**
+Utilzing the Rasberry Pi, I am studying embedded system.
+
+
           
           
                    
