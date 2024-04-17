@@ -10,7 +10,7 @@ Feel free to contact me if you want to learn more about my work and experiences!
 
 <br />
 
-# ⚙️Tool and Sklls 🔨
+# ⚙️Tools and Sklls 🔨
 <p>
  <img align="left" alt="Java" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />       
 <img align="left" alt="Java" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
