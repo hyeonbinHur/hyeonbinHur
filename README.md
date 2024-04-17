@@ -1,3 +1,3 @@
-### HyeonBin Hur (Max) 👋
+### HyeonBin Hur (Max) 👨‍💻
 
 
