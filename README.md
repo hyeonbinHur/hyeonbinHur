@@ -48,7 +48,6 @@ This is a social networking service currently being implemented using React and 
 **`Java`**
 
 This is an online video rental shop, fully implemented in Java and JavaFX. The main feature of this app is that it supports several different user types, each with unique features.
-<br />
 
 
 
