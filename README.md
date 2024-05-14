@@ -51,6 +51,11 @@ This is an online shoe shopping platform, implemented with React and MongoDB. Th
 
 This is a social networking service currently being implemented using React and Firebase. It features multiple sensitive functionalities that enhance user interaction.
 
+![Animation_2024-05-15-03-11-27](https://github.com/hyeonbinHur/hyeonbinHur/assets/160996936/d0e2c8e0-7162-4778-b93e-7a836c3a7677)
+
+<a href="https://github.com/hyeonbinHur/DDock-DDock">Pocket</a>
+
+
 **`Java`**
 
 This is an online video rental shop, fully implemented in Java and JavaFX. The main feature of this app is that it supports several different user types, each with unique features.
@@ -67,9 +72,6 @@ This is an online video rental shop, fully implemented in Java and JavaFX. The m
 Currently I am studying React in depth. focusing hooks, Redux, etc.
 
 
-![Animation_2024-05-15-03-11-27](https://github.com/hyeonbinHur/hyeonbinHur/assets/160996936/d0e2c8e0-7162-4778-b93e-7a836c3a7677)
-
-<a href="https://github.com/hyeonbinHur/DDock-DDock">Pocket</a>
 
 
 **`Machine Learninig`**
