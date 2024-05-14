@@ -10,7 +10,7 @@ Feel free to contact me if you want to learn more about my work and experiences!
 
 <br />
 
-# ⚙️Tools and Sklls 🔨
+# ⚙️Tech Experience 🔨
 <p>
  
  <img align="left" alt="Java" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />       
@@ -47,13 +47,6 @@ This project is a capstone project management system, implemented using Spring B
 
 <a href="https://github.com/hyeonbinHur/CapstoneProjectManagementSystem"> Capstone Project Management </a>
 
-**`React & AWS & MongoDB`**
-
-This is an online shoe shopping platform, implemented with React and MongoDB. The key aspects of this project include CRUD operations for items and integration with AWS.
-
-![Animation_2024-05-15-04-48-22](https://github.com/hyeonbinHur/CapstoneProjectManagementSystem/assets/160996936/f7b301bd-81e8-489d-b460-28f3a9b86db3)
-
-<a href="https://github.com/hyeonbinHur/onlineShoppingWebService"> Online shoes platform>
 
 **`React & Firebase`**
 
@@ -62,6 +55,16 @@ This is a social networking service currently being implemented using React and 
 ![Animation_2024-05-15-03-11-27](https://github.com/hyeonbinHur/hyeonbinHur/assets/160996936/d0e2c8e0-7162-4778-b93e-7a836c3a7677)
 
 <a href="https://github.com/hyeonbinHur/DDock-DDock">Pocket</a>
+
+
+
+**`React & AWS & MongoDB`**
+
+This is an online shoe shopping platform, implemented with React and MongoDB. The key aspects of this project include CRUD operations for items and integration with AWS.
+
+![Animation_2024-05-15-04-48-22](https://github.com/hyeonbinHur/CapstoneProjectManagementSystem/assets/160996936/f7b301bd-81e8-489d-b460-28f3a9b86db3)
+
+<a href="https://github.com/hyeonbinHur/onlineShoppingWebService"> Online shoes platform>
 
 
 **`Java & JavaFX`**
