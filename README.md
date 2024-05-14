@@ -63,7 +63,10 @@ This is an online video rental shop, fully implemented in Java and JavaFX. The m
 
 **`React`**
 
-Currently I am studying React in depth. focusing hooks, Redux, ContextAPI etc
+Currently I am studying React in depth. focusing hooks, Redux, etc.
+
+<a href="https://github.com/hyeonbinHur/DDock-DDock">
+</a>
 
 
 **`Machine Learninig`**
