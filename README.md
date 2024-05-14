@@ -102,6 +102,8 @@ As AI technology becomes more popular and widely used, I am eager to learn about
 
 Utilzing the Rasberry Pi, I am studying embedded system.
 
+<img src="https://github.com/hyeonbinHur/CapstoneProjectManagementSystem/assets/160996936/2cd7546d-caad-4348-8186-b022877f0bff">
+
 <a href="https://github.com/hyeonbinHur/BareMetalOS"> custom cli </a>
 
 
