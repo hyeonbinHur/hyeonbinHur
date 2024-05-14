@@ -65,8 +65,10 @@ This is an online video rental shop, fully implemented in Java and JavaFX. The m
 
 Currently I am studying React in depth. focusing hooks, Redux, etc.
 
-<a href="https://github.com/hyeonbinHur/DDock-DDock">
-</a>
+
+![Animation_2024-05-15-03-11-27](https://github.com/hyeonbinHur/hyeonbinHur/assets/160996936/d0e2c8e0-7162-4778-b93e-7a836c3a7677)
+
+<a href="https://github.com/hyeonbinHur/DDock-DDock">Pocket</a>
 
 
 **`Machine Learninig`**
