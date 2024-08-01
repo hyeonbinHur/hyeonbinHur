@@ -54,19 +54,8 @@ This is a social networking service currently being implemented using React and 
 
 <a href="https://github.com/hyeonbinHur/DDock-DDock">Pocket</a>
 
-
 <br />
 <br />
-
-
-# :seedling: Currently Sudying
-
-**`React`**
-
-Currently I am studying React in depth. focusing hooks, Redux, etc.
-
-
-
 
 
           
