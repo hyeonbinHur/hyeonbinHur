@@ -59,30 +59,8 @@ This is a social networking service currently being implemented using React and 
 <a href="https://github.com/hyeonbinHur/DDock-DDock">Pocket</a>
 
 
-
-**`React & AWS & MongoDB`**
-
-This is an online shoe shopping platform, implemented with React and MongoDB. The key aspects of this project include CRUD operations for items and integration with AWS.
-
-![Animation_2024-05-15-04-48-22](https://github.com/hyeonbinHur/CapstoneProjectManagementSystem/assets/160996936/f7b301bd-81e8-489d-b460-28f3a9b86db3)
-
-<a href="https://github.com/hyeonbinHur/onlineShoppingWebService"> Online shoes platform>
-
-
-**`Java & JavaFX`**
-
-This is an online video rental shop, fully implemented in Java and JavaFX. The main feature of this app is that it supports several different user types, each with unique features.
-
-![Animation_2024-05-15-04-51-31](https://github.com/hyeonbinHur/CapstoneProjectManagementSystem/assets/160996936/c4136c8c-4ce8-428b-8449-7a5558f86654)
-
-
-<a href="https://github.com/hyeonbinHur/VideoGameManagement">Video Game Management System</a>
-
-
-
 <br />
 <br />
-
 
 
 # :seedling: Currently Sudying
@@ -93,18 +71,6 @@ Currently I am studying React in depth. focusing hooks, Redux, etc.
 
 
 
-
-**`Machine Learninig`**
-
-As AI technology becomes more popular and widely used, I am eager to learn about AI. My chosen area of focus is now machine laerning.
-
-**`Embedded Systems: Operating Systems and Interfacing`**
-
-Utilzing the Rasberry Pi, I am studying embedded system.
-
-<img src="https://github.com/hyeonbinHur/CapstoneProjectManagementSystem/assets/160996936/2cd7546d-caad-4348-8186-b022877f0bff">
-
-<a href="https://github.com/hyeonbinHur/BareMetalOS"> custom cli </a>
 
 
           
