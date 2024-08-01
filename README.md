@@ -1,7 +1,34 @@
 ![Black Minimal Motivation Quote LinkedIn Banner (1)](https://github.com/user-attachments/assets/5775fdde-adec-4b9f-bc49-be0a6b338e93)
 
+```javascript
+let HyeonBin = {
+  school: "RMIT software engineering", 
+  home: "220 Spencer St, Melbourne VIC 3000, Australia",
+  technologies: { 
+    language: ["Java", "C", "C++", "JavaScript", "Swift", "HTML", "CSS"],
+    frontEnd: ["React", "Redux", "React-Query", "SCSS", "Tailwind CSS"],
+    cloudService: ["AWS", "Firebase"],
+    db: ["postgreSQL", "MySQL", "MongoDB"],
+    framework: ["Android Studio", "Spring Boot"], 
+    extra: ["Jupyter Notebook", "Raspberry Pi", "Arduino Uno", "Agile", "Waterfall"],
+    currentlyLearning: ["Jest", "React", "SCSS"], 
+  },
+  softskills: ["Communication", "Leadership", "Collaboration", "Self-direction", "Implementation ability", "Responsibility"],
+  position: ["React Developer", "Front-End Developer", "Software Developer"],
+};
 
-**:school:`RMIT software engineering course (Backend/Frontend/DataScience/Cloud Service )`**
+console.info(HyeonBin);
+
+
+moveForward(HyeonBin);
+
+
+setTimeout(() => {
+  console.info(HyeonBin);
+}, 6 months); 
+
+
+```
 
 <br />
 
