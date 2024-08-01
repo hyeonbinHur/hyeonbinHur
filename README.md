@@ -1,4 +1,4 @@
-# :koala: HyeonBin Hur (Max) 💻
+<center> # :koala: HyeonBin Hur (Max) 💻</center>
 ![Black Minimal Motivation Quote LinkedIn Banner (1)](https://github.com/user-attachments/assets/5775fdde-adec-4b9f-bc49-be0a6b338e93)
 
 
