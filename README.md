@@ -1,4 +1,6 @@
-# :koala: HyeonBin Hur (Max) 💻
+# :koala: HyeonBin Hur (Max) 
+💻![Black Minimal Motivation Quote LinkedIn Banner (1)](https://github.com/user-attachments/assets/5775fdde-adec-4b9f-bc49-be0a6b338e93)
+
 
 **:school:`RMIT software engineering course (Backend/Frontend/DataScience/Cloud Service )`**
 
