@@ -34,7 +34,38 @@ setTimeout(() => {
 
 <div align="center" style="max-width: 800px; margin: auto;"> 
 
-<h2> :page_with_curl: Flagship Projects :file_folder: </h2>
+<h3> Name Gacha </h3>
+
+![Animation_2024-05-15-03-11-27](https://github.com/hyeonbinHur/hyeonbinHur/assets/160996936/d0e2c8e0-7162-4778-b93e-7a836c3a7677)
+<br />
+
+This is a social networking service currently being implemented using React and Firebase. 
+<br />
+It features multiple sensitive functionalities that enhance user interaction.
+
+<br />
+
+<a href="https://github.com/hyeonbinHur/DDock-DDock">Pocket</a>
+</div>
+
+
+
+<h3> Pocket </h3>
+
+![Animation_2024-05-15-03-11-27](https://github.com/hyeonbinHur/hyeonbinHur/assets/160996936/d0e2c8e0-7162-4778-b93e-7a836c3a7677)
+<br />
+
+This is a social networking service currently being implemented using React and Firebase. 
+<br />
+It features multiple sensitive functionalities that enhance user interaction.
+
+<br />
+
+<a href="https://github.com/hyeonbinHur/DDock-DDock">Pocket</a>
+</div>
+
+
+<h2> :page_with_curl: My Projects :file_folder: </h2>
 
 <h3> Capstone Project Management System </h3>
 
@@ -52,20 +83,6 @@ It facilitates interaction among students, companies, and supervisors, which is 
 <br />
 <br />
 
-<h3> Pocket </h3>
-
-
-![Animation_2024-05-15-03-11-27](https://github.com/hyeonbinHur/hyeonbinHur/assets/160996936/d0e2c8e0-7162-4778-b93e-7a836c3a7677)
-<br />
-
-This is a social networking service currently being implemented using React and Firebase. 
-<br />
-It features multiple sensitive functionalities that enhance user interaction.
-
-<br />
-
-<a href="https://github.com/hyeonbinHur/DDock-DDock">Pocket</a>
-</div>
 
 <br />
 <br />
