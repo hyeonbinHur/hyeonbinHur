@@ -33,6 +33,8 @@ setTimeout(() => {
 <br />
 
 <div align="center" style="max-width: 800px; margin: auto;"> 
+<h2> :page_with_curl: My Projects :file_folder: </h2>
+
 
 <h3> Name Gacha </h3>
 
@@ -46,7 +48,6 @@ It features multiple sensitive functionalities that enhance user interaction.
 <br />
 
 <a href="https://github.com/hyeonbinHur/DDock-DDock">Pocket</a>
-</div>
 
 
 
@@ -62,10 +63,10 @@ It features multiple sensitive functionalities that enhance user interaction.
 <br />
 
 <a href="https://github.com/hyeonbinHur/DDock-DDock">Pocket</a>
-</div>
 
 
-<h2> :page_with_curl: My Projects :file_folder: </h2>
+
+
 
 <h3> Capstone Project Management System </h3>
 
@@ -87,7 +88,7 @@ It facilitates interaction among students, companies, and supervisors, which is 
 <br />
 <br />
 
-<div align="center">
+
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FhyeonbinHur&count_bg=%23CF6103&title_bg=%2353A018&icon=github.svg&icon_color=%23E7E7E7&title=&edge_flat=false)](https://hits.seeyoufarm.com)
   
