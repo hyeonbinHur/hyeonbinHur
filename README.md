@@ -32,27 +32,40 @@ setTimeout(() => {
 
 <br />
 
+<div align="center" style="max-width: 800px; margin: auto;"> 
 
+<h2> :page_with_curl: Flagship Projects :file_folder: </h2>
 
+<h3> Capstone Project Management System </h3>
 
+<image width="800px" src="https://github.com/hyeonbinHur/CapstoneProjectManagementSystem/assets/160996936/d9865402-9908-4dca-a282-4de23c425de3" />
+<br />
+<br />
 
-# :page_with_curl: Flagship Projects :file_folder:
-**`Spring Boot & PostgreSQL & AWS`**
+This project is a capstone project management system, implemented using Spring Boot, PostgreSQL, and AWS. 
+<br/>
+It facilitates interaction among students, companies, and supervisors, which is a main feature of the system.
+  
 
-This project is a capstone project management system, implemented using Spring Boot, PostgreSQL, and AWS. It facilitates interaction among students, companies, and supervisors, which is a main feature of the system.
+<p align="center"><a href="https://github.com/hyeonbinHur/CapstoneProjectManagementSystem">Capstone Project Management</a></p>
 
-![Animation_2024-05-15-07-27-48](https://github.com/hyeonbinHur/CapstoneProjectManagementSystem/assets/160996936/d9865402-9908-4dca-a282-4de23c425de3)
+<br />
+<br />
 
-<a href="https://github.com/hyeonbinHur/CapstoneProjectManagementSystem"> Capstone Project Management </a>
+<h3> Pocket </h3>
 
-
-**`React & Firebase`**
-
-This is a social networking service currently being implemented using React and Firebase. It features multiple sensitive functionalities that enhance user interaction.
 
 ![Animation_2024-05-15-03-11-27](https://github.com/hyeonbinHur/hyeonbinHur/assets/160996936/d0e2c8e0-7162-4778-b93e-7a836c3a7677)
+<br />
+
+This is a social networking service currently being implemented using React and Firebase. 
+<br />
+It features multiple sensitive functionalities that enhance user interaction.
+
+<br />
 
 <a href="https://github.com/hyeonbinHur/DDock-DDock">Pocket</a>
+</div>
 
 <br />
 <br />
