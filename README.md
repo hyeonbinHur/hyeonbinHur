@@ -38,7 +38,7 @@ setTimeout(() => {
 
 <h3> Capstone Project Management System </h3>
 
-<image width="800px" src="https://github.com/hyeonbinHur/CapstoneProjectManagementSystem/assets/160996936/d9865402-9908-4dca-a282-4de23c425de3" />
+<image src="https://github.com/hyeonbinHur/CapstoneProjectManagementSystem/assets/160996936/d9865402-9908-4dca-a282-4de23c425de3" />
 <br />
 <br />
 
