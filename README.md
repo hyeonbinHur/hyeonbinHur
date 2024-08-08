@@ -57,6 +57,7 @@ The main purpose of this application is for the AI to provide suitable names for
 
 
 ---
+<br />
 
 
 <h3> Pocket </h3>
@@ -73,6 +74,7 @@ It features multiple sensitive functionalities that enhance user interaction.
 <a href="https://github.com/hyeonbinHur/DDock-DDock">Pocket</a>
 
 ---
+<br />
 
 
 
