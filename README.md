@@ -33,8 +33,9 @@ setTimeout(() => {
 <br />
 
 <div align="center" style="max-width: 800px; margin: auto;"> 
-<h2> :page_with_curl: My Projects :file_folder: </h2>
-
+<h1> :page_with_curl: My Projects :file_folder: </h1>
+  
+<br />
 
 <h3> Name Gacha </h3>
 
