@@ -50,7 +50,12 @@ The main purpose of this application is for the AI to provide suitable names for
 
 <br />
 
-<a href="https://github.com/hyeonbinHur/DDock-DDock">Pocket</a>
+<a href="https://github.com/hyeonbinHur/Name_Gacha_aws_lambda">Name Gacha Back-End Code</a>
+<a href="https://github.com/hyeonbinHur/namegacha_frontend">Name Gacha Front-End Code</a>
+<a href="https://github.com/hyeonbinHur/namegacha_frontend">Live Server</a>
+
+
+
 
 
 
