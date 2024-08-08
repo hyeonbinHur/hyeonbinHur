@@ -42,21 +42,20 @@ setTimeout(() => {
 
 
 <br />
-
 This is an AI-powered Chatting service using Open AI's Assistant API.
-
 <br />
 The main purpose of this application is for the AI to provide suitable names for the user's variables and functions
-
 <br />
-
+<br />
 <a href="https://github.com/hyeonbinHur/Name_Gacha_aws_lambda">Name Gacha Back-End Code</a>
+<br />
 <a href="https://github.com/hyeonbinHur/namegacha_frontend">Name Gacha Front-End Code</a>
+<br />
 <a href="https://hyeonbinhur.github.io/namegacha/">Live Server</a>
 
 
 
-
+---
 
 
 <h3> Pocket </h3>
@@ -72,27 +71,20 @@ It features multiple sensitive functionalities that enhance user interaction.
 
 <a href="https://github.com/hyeonbinHur/DDock-DDock">Pocket</a>
 
-
+---
 
 
 
 <h3> Capstone Project Management System </h3>
-
 <image src="https://github.com/hyeonbinHur/CapstoneProjectManagementSystem/assets/160996936/d9865402-9908-4dca-a282-4de23c425de3" />
 <br />
 <br />
-
 This project is a capstone project management system, implemented using Spring Boot, PostgreSQL, and AWS. 
 <br/>
 It facilitates interaction among students, companies, and supervisors, which is a main feature of the system.
-  
-
 <p align="center"><a href="https://github.com/hyeonbinHur/CapstoneProjectManagementSystem">Capstone Project Management</a></p>
-
 <br />
 <br />
-
-
 <br />
 <br />
 
