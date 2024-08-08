@@ -38,12 +38,15 @@ setTimeout(() => {
 
 <h3> Name Gacha </h3>
 
-![Animation_2024-05-15-03-11-27](https://github.com/hyeonbinHur/hyeonbinHur/assets/160996936/d0e2c8e0-7162-4778-b93e-7a836c3a7677)
+![Animation_2024-08-08-14-36-03](https://github.com/user-attachments/assets/0f57c698-70bf-4935-a346-71d33a896ea8)
+
+
 <br />
 
-This is a social networking service currently being implemented using React and Firebase. 
+This is an AI-powered Chatting service using Open AI's Assistant API.
+
 <br />
-It features multiple sensitive functionalities that enhance user interaction.
+The main purpose of this application is for the AI to provide suitable names for the user's variables and functions
 
 <br />
 
