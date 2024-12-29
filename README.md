@@ -39,7 +39,8 @@ setTimeout(() => {
 
 <h3> Bilog </h3>
 <img width="1510" alt="bilog" src="https://github.com/user-attachments/assets/d7e5fb78-87f9-4307-86d9-5e0575bc70a2" />
-
+<br />
+<br />
 <br />
 This is a global blog platform that can provide content in both English and Korean.
 <br />
@@ -49,7 +50,7 @@ The main purpose of this application is to share my experiences and knowledge wi
 <a href="https://github.com/hyeonbinHur/bilog.git">Bilog</a>
 <br />
 
-
+---
 
 <h3> Name Gacha </h3>
 
