@@ -52,7 +52,6 @@ The main purpose of this application is for the AI to provide suitable names for
 <br />
 <a href="https://github.com/hyeonbinHur/namegacha_frontend">Name Gacha Front-End Code</a>
 <br />
-<a href="https://hyeonbinhur.github.io/namegacha/">Live Server</a>
 
 
 
