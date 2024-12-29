@@ -37,7 +37,7 @@ setTimeout(() => {
   
 <br />
 
-<h3> Bilog </h3>
+<h3> Bilog (Personal Project) </h3>
 <img width="1510" alt="bilog" src="https://github.com/user-attachments/assets/d7e5fb78-87f9-4307-86d9-5e0575bc70a2" />
 <br />
 <br />
@@ -52,7 +52,7 @@ The main purpose of this application is to share my experiences and knowledge wi
 
 ---
 
-<h3> Name Gacha </h3>
+<h3> Name Gacha (Personal Project)  </h3>
 
 ![Animation_2024-08-08-14-36-03](https://github.com/user-attachments/assets/0f57c698-70bf-4935-a346-71d33a896ea8)
 
