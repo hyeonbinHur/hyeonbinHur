@@ -5,8 +5,8 @@ let HyeonBin = {
   school: "RMIT software engineering", 
   home: "220 Spencer St, Melbourne VIC 3000, Australia",
   technologies: { 
-    language: ["Java", "C", "C++", "JavaScript", "Swift", "HTML", "CSS"],
-    frontEnd: ["React", "Redux", "React-Query", "SCSS", "Tailwind CSS"],
+    language: ["Java", "C", "C++", "JavaScript","TypeScript" ,"Swift", "HTML", "CSS"],
+    frontEnd: ["React","Next.js", "Redux", "React-Query", "SCSS", "Tailwind CSS"],
     cloudService: ["AWS", "Firebase"],
     db: ["postgreSQL", "MySQL", "MongoDB"],
     framework: ["Android Studio", "Spring Boot"], 
