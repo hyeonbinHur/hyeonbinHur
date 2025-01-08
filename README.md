@@ -6,7 +6,7 @@ let HyeonBin = {
   home: "220 Spencer St, Melbourne VIC 3000, Australia",
   technologies: { 
     language: ["Java", "C", "C++", "JavaScript","TypeScript" ,"Swift", "HTML", "CSS"],
-    frontEnd: ["React","Next.js", "Redux", "React-Query", "SCSS", "Tailwind CSS"],
+    frontEnd: ["React", "Next.js", "Redux", "React-Query", "SCSS", "Tailwind CSS"],
     cloudService: ["AWS", "Firebase"],
     db: ["postgreSQL", "MySQL", "MongoDB"],
     framework: ["Android Studio", "Spring Boot"], 
